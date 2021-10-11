@@ -1,0 +1,14 @@
+-	Implementation
+Program aplikasi percetakan tersebut dirancang dan dibangun dengan menggunakan bahasa pemrograman java dan database MySQL.
+-	System testing 
+Tahap testing dilakukan dengan menggunakan black box testing, yang dilakukan user ataupun admin untuk melakukan pengujian terhadap aplikasi. Berikut beberapa hasil pengujian black box yang telah dilakukan pada aplikasi percetakan
+Skenario pengujian	Test Case	Hasil yang diharapkan	Hasil
+Login menggunakan akun user	Username : user
+Password : user	Sistem membaca akun, jika akun ada dan terdata sebagai user maka akan diarahkan ke dashboard user.	Sesuai
+Login menggunakan akun admin 	Username : admin
+Password : admin	Sistem membaca akun, jika akun ada dan terdata sebagai admin maka akan diarahkan ke dashboard admin.	Sesuai
+Login menggunakan sembarang akun	Username : Asal
+Password : Sembarang	Sistem mampu mendeteksi akun, dan memunculkan pesan warning ketika akun tidak tersedia atau tidak sesuai dengan database “Maaf username atau password anda salah”.	Sesuai
+Mengosongkan inputan pada proses buat pesanan	Kosongkan kolom inputan 	Sistem menolak inputan karena inputan tidak terisi semua dan memunculkan pesan “Periksa kembali inputan anda”.	Tidak Sesuai, inputan tetap diproses dan masuk database
+Mengosongkan inputan pada prosesn tambah akun member/admin	Kosongkan kolom inputan	Sistem menolak inputan karena inputan tidak terisi semua dan memunculkan pesan “form tidak boleh kosong”.	Sesuai
+
