@@ -1,0 +1,4 @@
+-	Operation and Maintenance
+Kami menyadari terjadi beberapa bug pada aplikasi percetakan ini seperti,
+data pesanan kosong masih dapat masuk ke database, upload foto yang belum bekerja dan beberapa bug lainnya. Oleh karena itu,
+untuk proses maintenance kami akan berusaha mencari solusi untuk bug-bug yang terjadi pada aplikasi percetakan.
