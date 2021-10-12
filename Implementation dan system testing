@@ -1,4 +1,12 @@
 -	Implementation
 Program aplikasi percetakan tersebut dirancang dan dibangun dengan menggunakan bahasa pemrograman java dan database MySQL.
+- untuk sepesifikasi yang digunakan 
+ Core i7,
+ RAM 32 GB-256 GB
+ SSD
+ HDD 2 TB internal
+ HDD External 1 TB
+ VGA Card 2 GB
+ Monitor 2 buah atau lebih 24inci.
 -	System testing 
 Tahap testing dilakukan dengan menggunakan black box testing, yang dilakukan user ataupun admin untuk melakukan pengujian terhadap aplikasi.
