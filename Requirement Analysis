@@ -1,5 +1,8 @@
 -	Analisis Kebutuhan Perangkat Lunak
-Program aplikasi percetakan ini dirancang untuk memudahkan dan mengefisiensikan kegiatan di percetakan. Pengguna dapat melakukan pengecekan jadwal antrean percetakan, melakukan booking pemesanan sehingga akan mengefisiensikan waktu dan tenaga pengguna ketimbang harus mendatangi langsung percetakan. Bahkan aplikasi ini dirancang untuk menginformasikan status pesanan, apakah masih proses atau sudah selesai, sehingga pengguna dapat mengambilnya tepat saat pesanannya sudah selesai.
+Program aplikasi percetakan ini dirancang untuk memudahkan dan mengefisiensikan kegiatan di percetakan. Pengguna dapat melakukan pengecekan jadwal antrean percetakan, 
+melakukan booking pemesanan sehingga akan mengefisiensikan waktu dan tenaga pengguna ketimbang harus mendatangi langsung percetakan. 
+Bahkan aplikasi ini dirancang untuk menginformasikan status pesanan, apakah masih proses atau sudah selesai, sehingga pengguna dapat mengambilnya tepat saat pesanannya 
+sudah selesai.
 
 Halaman pada aplikasi
 -	Halaman user
