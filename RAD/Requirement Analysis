@@ -1,1 +1,40 @@
 Requirement Analysis
+
+Identifikasi Masalah
+Adapun identifikasi masalah dari uraian latar belakang diatas adalah sebagai berikut :
+1. Kesulitan menemukan data peminjaman dan pengembalian buku, sistem yang masih 
+manual membuat staf perpustakaan harus mencari secara manual transaksi sebelumnya.
+2. Kurang efektifnya pencatatan peminjaman dari segi waktu, dengan sistem yang 
+masih manual menyebabkan pengguna menghabiskan waktu yang cukup lama untuk mencatat peminjaman.
+
+Tujuan Perancangan
+Merancang sebuah website yang menyesuaikan tampilannya dengan tampilan device atau perangkat yang digunakan pengunjung web baik ukuran maupun orientasi, 
+sehingga tampilan yang berada di dekstop komputer dengan tampilan di perangkat bergerak atau mobile device tetap memberikan kenyamanan user yang mengakses website tersebut.
+
+Fitur-fitur
+A.	User
+-	Login dan tampilan informasi
+-	Tampilan halaman my book
+-	Tampilan halaman add book
+-	Tampilan halaman detail dan history
+B.	Admin
+-	Tampilan halaman home admin
+-	Tampilan data admin
+-	Tampilan data transaksi
+-	Tampilan data borrow books
+-	Tampilan data user
+-	Tampilan data return books
+
+Spesifikasi Hardware
+1.	Processor core i7
+2.	RAM 32 Gb
+3.	SSD 256 Gb
+4.	HDD internal 2 Tb
+5.	HDD eksternal 1 Tb
+6.	VGA Card 2 Gb
+
+Software
+1.	Figma 
+2.	Visual code studio
+3.	My SQL
+4.	Draw.io
